@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LampEntry">
+        <attr name="titleText" format="string" />
+        <attr name="captionText" format="string" />
+        <attr name="color" format="color" />
+    </declare-styleable>
+</resources>
